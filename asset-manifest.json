@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38d52609.css",
+    "main.js": "/static/js/main.9e8a6010.js",
+    "static/js/787.ba97c8bb.chunk.js": "/static/js/787.ba97c8bb.chunk.js",
+    "static/media/main_background.png": "/static/media/main_background.50e22940d21e5ccb0b3b.png",
+    "static/media/map_kendal.svg": "/static/media/map_kendal.a3aca9b30aa165310c99e707ad9647ec.svg",
+    "static/media/Orbitron-Black.ttf": "/static/media/Orbitron-Black.27f6db35693d89cb48b2.ttf",
+    "static/media/mongodb_logo.png": "/static/media/mongodb_logo.7453f0240207fdce04f1.png",
+    "static/media/nodejs_logo.png": "/static/media/nodejs_logo.22e66754aa21bdc392b5.png",
+    "static/media/react_logo.png": "/static/media/react_logo.c979f6bd68e14a6b9d94.png",
+    "static/media/firebase_logo.png": "/static/media/firebase_logo.bba39bc86e32dc3eb16b.png",
+    "static/media/logo_brand.svg": "/static/media/logo_brand.0163bf5ac9c2a83087057eed909abb33.svg",
+    "index.html": "/index.html",
+    "main.38d52609.css.map": "/static/css/main.38d52609.css.map",
+    "main.9e8a6010.js.map": "/static/js/main.9e8a6010.js.map",
+    "787.ba97c8bb.chunk.js.map": "/static/js/787.ba97c8bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d52609.css",
+    "static/js/main.9e8a6010.js"
+  ]
+}
